@@ -46,7 +46,7 @@ export default function Download() {
           </div>
 
           {/* Download button — replace href with actual APK path */}
-          <a href="./TripGUY.apk" download="TripGUY.apk"
+          <a href="https://github.com/Gnanasekaran2004/TG_Land/releases/download/v1.0.0/trip_guy.apk" download="TripGUY.apk"
              className="flex items-center justify-center gap-3 bg-gradient-to-r from-tg-blue to-tg-blue-d text-white font-black text-lg px-8 py-4 rounded-2xl w-full glow-blue hover:-translate-y-1 hover:shadow-2xl hover:shadow-tg-blue/50 transition-all duration-300 group">
             <span className="text-2xl group-hover:animate-bounce">⬇</span>
             Download APK
